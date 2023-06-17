@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jhon Doe",
+      "email": "name@example.com",
+      "department": "HR",
+      "role": "admin",
+      "state": "Accepted"
+    },
+    {
+      "id": 5,
+      "name": "Jhon Doe",
+      "email": "name@example.com",
+      "department": "HR",
+      "role": "admin",
+      "state": "Accepted"
+    }
+  ]
+}
